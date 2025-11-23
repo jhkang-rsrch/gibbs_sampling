@@ -1,4 +1,5 @@
-# Bayesian SSVS Gibbs Sampling – Reproducing Table 1 & Table 2
+# Bayesian SSVS Gibbs Sampling 
+## Reproducing Table 1 & Table 2
 
 This repository reproduces **Table 1** and **Table 2** from the classical paper:
 
@@ -89,6 +90,3 @@ burn_in = 3000    # default: 5000
 - Single PDF research report  
 
 ---
-
-**Author:** jhkang  
-📧 `2715wngjs@naver.com`

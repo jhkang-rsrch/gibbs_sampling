@@ -1,0 +1,24 @@
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+.gibbs-venv/
+.venv/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
